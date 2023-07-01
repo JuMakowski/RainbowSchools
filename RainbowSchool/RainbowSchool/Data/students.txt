@@ -1,0 +1,10 @@
+João, 18, 12A
+Maria, 17, 11B
+Pedro, 16, 10C
+Ana, 18, 12B
+Carlos, 17, 11A
+Sofia, 16, 10B
+Lucas, 17, 11A
+Laura, 16, 10C
+Gabriel, 18, 12C
+Beatriz, 17, 11B

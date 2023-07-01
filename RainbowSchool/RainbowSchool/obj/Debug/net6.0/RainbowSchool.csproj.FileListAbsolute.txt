@@ -1,0 +1,16 @@
+C:\trainings\RainbowSchools\RainbowSchool\RainbowSchool\bin\Debug\net6.0\RainbowSchool.exe
+C:\trainings\RainbowSchools\RainbowSchool\RainbowSchool\bin\Debug\net6.0\RainbowSchool.deps.json
+C:\trainings\RainbowSchools\RainbowSchool\RainbowSchool\bin\Debug\net6.0\RainbowSchool.runtimeconfig.json
+C:\trainings\RainbowSchools\RainbowSchool\RainbowSchool\bin\Debug\net6.0\RainbowSchool.dll
+C:\trainings\RainbowSchools\RainbowSchool\RainbowSchool\bin\Debug\net6.0\RainbowSchool.pdb
+C:\trainings\RainbowSchools\RainbowSchool\RainbowSchool\obj\Debug\net6.0\RainbowSchool.csproj.AssemblyReference.cache
+C:\trainings\RainbowSchools\RainbowSchool\RainbowSchool\obj\Debug\net6.0\RainbowSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\trainings\RainbowSchools\RainbowSchool\RainbowSchool\obj\Debug\net6.0\RainbowSchool.AssemblyInfoInputs.cache
+C:\trainings\RainbowSchools\RainbowSchool\RainbowSchool\obj\Debug\net6.0\RainbowSchool.AssemblyInfo.cs
+C:\trainings\RainbowSchools\RainbowSchool\RainbowSchool\obj\Debug\net6.0\RainbowSchool.csproj.CoreCompileInputs.cache
+C:\trainings\RainbowSchools\RainbowSchool\RainbowSchool\obj\Debug\net6.0\RainbowSchool.dll
+C:\trainings\RainbowSchools\RainbowSchool\RainbowSchool\obj\Debug\net6.0\refint\RainbowSchool.dll
+C:\trainings\RainbowSchools\RainbowSchool\RainbowSchool\obj\Debug\net6.0\RainbowSchool.pdb
+C:\trainings\RainbowSchools\RainbowSchool\RainbowSchool\obj\Debug\net6.0\RainbowSchool.genruntimeconfig.cache
+C:\trainings\RainbowSchools\RainbowSchool\RainbowSchool\obj\Debug\net6.0\ref\RainbowSchool.dll
+C:\trainings\RainbowSchools\RainbowSchool\RainbowSchool\bin\Debug\net6.0\Data\students.txt
